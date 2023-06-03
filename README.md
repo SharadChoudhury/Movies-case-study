@@ -1,1 +1,1 @@
-# RSVP-Movies-case-study
+# Movies-case-study
